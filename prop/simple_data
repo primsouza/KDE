@@ -1,0 +1,9 @@
+# simple data file that is used in the SimpleScript code so simulate really simple 2 dimensional spacial data
+# First column - ID (In this example, all events are coming from the same individual
+# Second column - X value
+# Second column - Y value
+0	0	0
+0	1.2	1
+0	2	2.5
+0	1	1.4
+0	0.4	0.9
